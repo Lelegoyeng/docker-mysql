@@ -4,7 +4,7 @@
 docker-compose up --build -d
 `````
 
-### Run
+### Detail Options
 
 `````
 Username: root
